@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ijeoma Enem(Iphie)</h1>
 <p align="center">
  
-  <img src=" https://github.com/iphieaijay/iphieaijay/blob/main/portfolio.png?raw=true" width="120" alt="Logo" />
+  <img src="https://github.com/iphieaijay/iphieaijay/blob/main/portfolio.png?raw=true" width="120" alt="Logo" />
 </p>
 
 <p align="center">
