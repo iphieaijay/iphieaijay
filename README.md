@@ -8,11 +8,11 @@
 
 ### What I Do
 
-- 🧠 Design clean, maintainable backend services using .NET 8, Azure Services, EF Core & Dapper
-- ⚙️ Build distributed systems with microservices and Azure
-- 🔐 Implement secure authentication with Identity & JWT
-- 📊 Integrate Redis cache, messaging queues, and reporting tools
-- 🖼️ Create intuitive UIs with Angular, React, TailwindCSS
+- Design clean, maintainable backend services using .NET 8, Azure Services, EF Core & Dapper
+- Build distributed systems with microservices and Azure
+- Implement secure authentication with Identity & JWT
+- Integrate Redis cache, messaging queues, and reporting tools
+- Create intuitive UIs with Angular, React, TailwindCSS
 
 ### Tech Toolbox
 
@@ -29,15 +29,11 @@
 
 ### Featured Projects
 
- **[Multi-Merchant E-commerce App](https://github.com/iphieaijay/multi-merchant-store)**  
+- **[Multi-Merchant Inventory Management App](https://github.com/iphieaijay/#)**  
   Role-based access, POS integration, performance reporting, clean architecture.
 
-**[User Service + Azure Messaging](https://github.com/iphieaijay/user-service-azure)**  
-  Publishes user events to Azure Service Bus, CosmosDB, and sends notifications.
-
-- **[Inventory API with Clean Architecture](https://github.com/iphieaijay/inventory-api-clean)**  
-  Built with Dapper, EFCore, JWT, Identity, Swagger, and stored procedures.
-
+- **[User Authentication API](https://github.com/iphieaijay/UserAuthentication)**  
+  User Authentication using JWT,.NET 8, Identity, EfCore,Swagger, Serilog.
 
 ### Let's Connect
 
