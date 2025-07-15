@@ -21,5 +21,5 @@
 
 ### 📫 Contact
 - 📧 Email: you@example.com
-- 💼 LinkedIn: [linkedin.com/in/iphieaijay](https://linkedin.com/in/iphieaijay)
+- 💼 LinkedIn: [linkedin.com/in/ijeoma-enem-a4780017/](https://linkedin.com/in/ijeoma-enem-a4780017/)
 
