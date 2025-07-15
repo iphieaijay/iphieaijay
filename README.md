@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ijeoma Enem(Iphie)</h1>
+<p align="center">
+  <img src="https://iphieaijay.github.io/assets/logo.png" width="120" alt="Logo" />
+</p>
 
-<!--
-**iphieaijay/iphieaijay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Senior FullStack Developer</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Portfolio
+🔗 [Visit my Portfolio](https://iphieaijay.github.io)
+
+### 🛠️ Skills
+- C#, .NET 8, ASP.NET Core
+- Angular, React
+- Azure, Cosmos DB, Redis, SQL Server
+- REST APIs, Clean Architecture, Microservices
+
+### 📫 Contact
+- 📧 Email: you@example.com
+- 💼 LinkedIn: [linkedin.com/in/iphieaijay](https://linkedin.com/in/iphieaijay)
+
