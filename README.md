@@ -2,8 +2,8 @@
 
 # 👋 Hi, I'm Ijeoma Enem
 
-🎯 **Senior .NET Backend Developer** | **FullStack Developer** | Architecting Scalable APIs | Clean Code Advocate  
-🌍 Building full-stack apps with .NET, NodeJS, Angular, React, Azure, and more.
+🎯 **Senior Java and .NET Backend Developer** | **FullStack Developer** | Architecting Scalable APIs,& Microservices | Clean Code Advocate  
+🌍 Building full-stack apps with Java, .NET, NodeJS, React, Next.js, TailwindCss, Bootstrap and more.
 
 
 ### What I Do
